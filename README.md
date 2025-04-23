@@ -8,7 +8,7 @@
 
 👯 I’m looking to collaborate on **new projects**
 
-👨‍💻 All of my projects are available at [https://dataguy.my.canva.site/](https://dataguy.my.canva.site/)
+👨‍💻 All of my projects are available at [https://dataguy.my.canva.site/](https://eubioedata.my.canva.site/portfolio)
 
 💬 Ask me about **Python, MySQL, Power BI**
 
